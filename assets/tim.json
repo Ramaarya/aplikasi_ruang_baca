@@ -1,0 +1,26 @@
+{
+    "mahasiswa": [
+        {
+            "id": "1",
+            "name": "Andra Putra N",
+            "nim": "2112012012012012",
+            "bidang": "Embeded System",
+            "desc": "Thomas adalah lolicon"
+
+        },
+        {
+            "id": "2",
+            "name": "Pudidi Suhardi",
+            "nim": "212014568445845",
+            "bidang": "Project Manager",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": "3",
+            "name": "Kevin Hart",
+            "nim": "1256548184154",
+            "bidang": "Ceo Thomas",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis eleifend quam adipiscing vitae proin sagittis nisl. Aenean pharetra magna ac placerat. Ultricies leo integer malesuada nunc. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Sed id semper risus in. Eget gravida cum sociis natoque penatibus et magnis dis parturient. Amet commodo nulla facilisi nullam vehicula ipsum a. Varius quam quisque id diam vel quam elementum pulvinar. Ultrices in iaculis nunc sed augue lacus viverra vitae. Rhoncus urna neque viverra justo nec. Eget mi proin sed libero enim sed faucibus turpis. Magna fermentum iaculis eu non diam. Natoque penatibus et magnis dis."
+        }
+    ]
+}
