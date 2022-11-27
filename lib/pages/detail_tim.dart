@@ -5,10 +5,12 @@ class DetailKelompok extends StatelessWidget {
     required this.name,
     required this.nim,
     required this.desc,
+    required this.bidang,
   });
 
   String name;
   String nim;
+  String bidang;
   String desc;
 
   @override
@@ -43,6 +45,13 @@ class DetailKelompok extends StatelessWidget {
                 const SizedBox(height: 10),
                 Text(
                   nim,
+                  style: const TextStyle(
+                    fontSize: 18,
+                  ),
+                ),
+                const SizedBox(height: 10),
+                Text(
+                  bidang,
                   style: const TextStyle(
                     fontSize: 18,
                   ),
