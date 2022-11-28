@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import './tabs/developer_tabs.dart';
 import './tabs/food_tabs.dart';
+import './tabs/food_cate.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -21,6 +22,7 @@ class _HomePageState extends State<HomePage> {
 
   List<Widget> tabs = const [
     FoodTabs(),
+    CategoryFood(),
     DeveloperTabs(),
   ];
 
@@ -33,6 +35,10 @@ class _HomePageState extends State<HomePage> {
           BottomNavigationBarItem(
             icon: Icon(Icons.food_bank_outlined),
             label: 'Food',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.category),
+            label: 'Category',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.person),
